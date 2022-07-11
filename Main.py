@@ -1,6 +1,4 @@
 
-#Name:Tal vazana, ID:313454472
-
 """
 The function we are going to work with
 """
